@@ -44,7 +44,7 @@ class Game{
             
         }, 500);
 
-
+        //plane
         this.plane = new Plane(this);
 
         
